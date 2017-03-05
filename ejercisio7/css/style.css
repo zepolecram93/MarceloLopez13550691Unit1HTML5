@@ -1,0 +1,41 @@
+body{
+    background: #263238;
+}
+
+#main{
+    width: 550px;
+    margin: auto;
+    border-radius: 5px;
+    background: white;
+}
+#title{
+    background: #E0E0E0;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.2em;
+}
+header div{
+    font-size: 1.1em;
+}
+#pr{
+    width: 550px;
+}
+#prim{
+   text-align: center;
+}
+section{
+    width: 550px;
+    height: auto;
+}
+header h1{
+    color: #01579B;
+}
+header h2{
+    color: #D32F2F;
+}
+section div, article{
+    display: inline-block;
+}
+section h2{
+    color: #D32F2F;
+}

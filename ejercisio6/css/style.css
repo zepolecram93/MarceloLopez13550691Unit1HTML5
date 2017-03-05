@@ -1,0 +1,59 @@
+body{
+    background: #FFCC80;
+}
+
+#main_wrapp{
+    width: 550px;
+    margin: auto;
+    border-radius: 5px;
+    background: white;
+}
+
+#title{
+    width: 550px;
+    text-align: center;
+}
+
+#bord{
+    margin: 10px;
+    border-radius: 5px;
+    border: black 2.1px solid;  
+}
+
+header nav{
+    text-align: center;
+    font-size: 1.5em;
+}
+nav a{
+    color: black;
+    padding-bottom: 0px;
+    
+}
+
+#center{
+    text-align: center;
+}
+section article{
+    text-align: justify;
+}
+section footer{
+    text-align: justify;
+}
+
+article, footer{
+    display: inline-block;
+    vertical-align: top;
+}
+
+section footer a{
+    text-decoration: none;
+    color: black;
+}
+
+#fin{
+    width: 550px;
+    text-align: center;
+}
+footer h1{
+    font-size: 1.1em;
+}
