@@ -1,0 +1,145 @@
+body{
+  background-color: #E0E0E0;  
+}
+
+#main_wrapper{
+    width: 739px;
+	margin: auto;
+    background-color: white;
+    border-radius: 8px;
+    border: #BDBDBD 0.1px solid;
+}
+
+#title{
+    font-size: 0.9em;
+    color: #6380a6;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 690px;  
+}
+
+a, a{
+    color: #6380a6;   
+}
+
+a:hover{
+    color: #2e4159;
+}
+
+li a{
+     text-decoration: none;   
+}
+
+section article{
+    width: 726px;
+    text-align: justify;
+    padding-left: 5px;
+}
+
+#image {
+    display: block;
+    height: 239px;
+    position: relative;
+    top: 10;
+}
+
+#rotate {
+    height: 67px;
+    width:220px;
+    top: 0;
+    left:1;
+    float:left;
+}
+
+#xhtml_2 {
+    height: 237px;
+    width: 290px;
+    top: 0;
+    float:center;
+}
+#code {
+    height: 67px;
+    width: 290px;
+    top: 0;
+    float:right;
+}
+
+
+#more{
+   text-align: right;    
+}
+
+#type{
+   text-align: center;
+}
+#title_2{
+    font-size: 1.5em;
+    color: #6380a6;
+    text-align: center;  
+}
+#type_2{
+    font-size: 1.5em;
+}
+
+#elemen{
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#padd{
+    padding-left: 5px;
+}
+
+#title_3{
+    font-size: 1.2em;
+    color: #6380a6;
+    text-align: center;     
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    text-align: center;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;   
+}
+
+#grad22{
+     padding-left: 5px;
+}
+
+#grad1 {
+    height: 100px;
+    width: 739px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, yellow); /* Standard syntax (must be last) */
+}
+
+#title_1{
+    text-shadow: 0 0 9px #000000;
+    font-size: 0.9em;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
